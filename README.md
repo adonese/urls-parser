@@ -11,8 +11,8 @@ As I mentioned, I use to extract links from a website, but you can literally ext
 
 The simplest case is
 
-```
-bash
+```bash
+
 $ python urls_parser.py website
 # The website can be just a single, or it can also be a list of websites e.g.
 $ python url_parser.py wwww.foo1.com www.foo2.com
@@ -25,8 +25,8 @@ The results can either be stored into a file in you current directory, with the 
 
 You can, and I encourage you to, specify a name of the output_file, using
 
-```
-bash
+```bash
+
 $ python urls_parser.py website --output_file my_file.txt
 # Where `my_file.txt` is the name of the file you want to store the results in.
 ```
@@ -37,8 +37,8 @@ urls_parse has only two dependencies BeautifulSoup and sortedcontainers
 
 After you have downloaded this file, using
 
-```
-bash
+```bash
+
 $ git clone https://github.com/adonese/urls-parser.git
 # go to urls-parser directory
 $ cd urls-parser
