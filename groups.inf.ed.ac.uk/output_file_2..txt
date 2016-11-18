@@ -1,0 +1,10 @@
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-01-12/Informatics_1___Object_Oriented_Programming-video.m4v
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-01-19/Informatics_1___Object_Oriented_Programming-video.m4v
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-01-26/Informatics_1___Object_Oriented_Programming-video.m4v
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-02-02/Informatics_1___Object_Oriented_Programming-video.m4v
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-02-09/Informatics_1___Object_Oriented_Programming-video.m4v
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-02-23/Informatics_1___Object_Oriented_Programming-video.m4v
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-03-09/Informatics_1___Object_Oriented_Programming-video.m4v
+http://podcast.is.ed.ac.uk:8080/Podcasts/capturED/D747/INFR08014/2015-03-16/Informatics_1___Object_Oriented_Programming-video.m4v
+http://validator.w3.org/
+http://www.inf.ed.ac.uk/student-services/teaching-organisation/taught-course-information/year-guides/undergraduate-first-year-guide/inf1-op/inf1-op-object-oriented-programming
