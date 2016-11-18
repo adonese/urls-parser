@@ -1,7 +1,6 @@
 urls-parser
 ===========
 
-## urls-parser
 
 I use this script to parse a website when I need to download several links without doing that manually. I was kinda lazy of generalizing this tool, so I always end up modifying the script, or even worse I write it from the beginning.
 
